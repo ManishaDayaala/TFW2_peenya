@@ -8,6 +8,6 @@ scikeras
 scikit-learn
 openpyxl
 xgboost
-imblanced-learn
+imbalanced-learn
 pip==25.0.1
 
