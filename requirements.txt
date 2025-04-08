@@ -9,3 +9,4 @@ scikit-learn
 openpyxl
 xgboost
 imblanced-learn
+pip install --upgrade pip
