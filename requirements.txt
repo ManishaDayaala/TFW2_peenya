@@ -9,5 +9,5 @@ scikit-learn
 openpyxl
 xgboost
 imbalanced-learn
-pip==25.0.1
+
 
